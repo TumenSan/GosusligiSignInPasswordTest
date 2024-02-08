@@ -12,7 +12,11 @@
 
 ### 2) Установите библиотеки для тестирования
 
-Используйте NuGet CLI для установки библиотек для тестирования
+Установите NUnit 3.13 с помощью команды
+
+`Install-Package NUnit -Version 3.13.0`
+
+Или можно использовать NuGet CLI для установки библиотек для тестирования
 
 `nuget install NUnit`
 `nuget install NUnit3TestAdapter`
