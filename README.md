@@ -1,3 +1,5 @@
+# https://github.com/TumenSan/GosusligiSignInPasswordTest
+
 # 1. Установка необходимых инструментов
 
 ### Если у вас установлены NuGet Cli и NUnit, вы можете пропустить данный первый пункт и сразу запускать тест
