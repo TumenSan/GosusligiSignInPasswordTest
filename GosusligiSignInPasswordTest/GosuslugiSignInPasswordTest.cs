@@ -39,6 +39,7 @@ namespace GosuslugiSignInPasswordTest
         }
 
         [Test]
+        // Тест для экрана компьютера
         public void SignInPasswordTestOnDesktop()
         {
             try
@@ -76,6 +77,7 @@ namespace GosuslugiSignInPasswordTest
         }
 
         [Test]
+        // Тест для экрана телефона
         public void SignInPasswordTestOnMobile()
         {
             try
